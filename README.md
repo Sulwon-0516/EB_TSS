@@ -1,5 +1,5 @@
-# EE488-HW3
-
+# Event-Based Text Searching Server
+(EE488 Advanced Programming Techniques for Electrical Engineering)
 This is the repository of Final Project conducted in Fall 2020.
 
 It's implementation of text search server, which can handle more 100k requests/sec based on multi-thread
